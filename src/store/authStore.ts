@@ -76,7 +76,7 @@ export const useAuthStore = create<AuthStore>()(
       isInWatchlist: (movieId: number) => get().watchlist.includes(movieId),
     }),
     {
-      name: "cinemax-auth",
+      name: "IWACUFLIX-auth",
     }
   )
 );

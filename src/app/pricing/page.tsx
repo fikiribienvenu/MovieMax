@@ -86,7 +86,7 @@ export default function PricingPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
               {[
                 { q: "Can I cancel anytime?", a: "Yes, you can cancel your subscription at any time. No cancellation fees, no questions asked." },
-                { q: "What devices can I watch on?", a: "CineMax works on any device — phones, tablets, laptops, smart TVs, and gaming consoles." },
+                { q: "What devices can I watch on?", a: "IWACUFLIX works on any device — phones, tablets, laptops, smart TVs, and gaming consoles." },
                 { q: "Is there a free trial?", a: "New members get their first 7 days free on the Premium plan. No credit card required to start." },
                 { q: "Can I download movies offline?", a: "Premium and Annual plan subscribers can download content to watch offline on mobile devices." },
                 { q: "How many screens at once?", a: "Basic: 1 screen. Premium: 4 screens. Annual: 6 screens simultaneously." },

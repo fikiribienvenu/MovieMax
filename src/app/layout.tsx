@@ -17,12 +17,12 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "CineMax — Your Premium Movie Destination",
+  title: "IWACUFLIX — Your Premium Movie Destination",
   description:
     "Stream thousands of movies in 4K Ultra HD. Watch trailers, subscribe for full access, and enjoy premium cinema from home.",
-  keywords: "movies, streaming, cinema, 4K, CineMax",
+  keywords: "movies, streaming, cinema, 4K, IWACUFLIX",
   openGraph: {
-    title: "CineMax — Your Premium Movie Destination",
+    title: "IWACUFLIX — Your Premium Movie Destination",
     description: "Stream thousands of movies in 4K Ultra HD.",
     type: "website",
   },
